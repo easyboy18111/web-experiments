@@ -1,0 +1,20 @@
+alienware R11
+CPU: Intel Core i5 10400F – i9 10900 | GPU: Nvidia GTX 1650 – RTX 3090 | RAM: 8GB – 32GB 2933MHz | Storage: Up to 2TB M.2 PCIe SSD + 2TB SATA HDD | Warranty: 1 Year (onsite
+
+alienware R10
+CPU: AMD Ryzen 3500 - 3950X | GPU: Nvidia GTX 1660 Super - RTX 2080 Ti | RAM: 8GB - 64GB DDR4 | Storage: 1TB HDD - 2TB HDD + 2TB SSD | Warranty: 1 year (onsite)
+
+corsair One i164
+CPU: Intel Core i9 9900K | GPU: Nvidia GeForce RTX 2080 Ti | RAM: 32GB DDR4-2666 | Storage: 960GB NVMe M.2 SSD, 2TB HDD | Warranty: 2 year
+
+HP omen Obelisk
+CPU: Intel Core i7 8700 | GPU: Nvidia GeForce RTX 2080 | RAM: 16GB DDR4-2666 | Storage: 256GB M.2 SSD, 2TB HDD | Warranty: 1 year
+
+Origin Chronos
+CPU: Up to Ryzen 9 3900X | GPU: Up to Titan RTX | RAM: Up to 32GB 3,000MHz | Storage: Gen4 PCIe SSD up to 2TB | Warranty: 1 year
+
+Corsair Vengeance A4100
+CPU: Intel Core i5 9400F | GPU: Nvidia GTX 1660 6GB | RAM: 8GB DDR4-2400 | Storage: 1TB HDD 7200RPM + 128GB SSD | Warranty: 2 year
+
+
+

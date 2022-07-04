@@ -1,0 +1,14 @@
+xbox one:
+
+1	Grand Theft Auto V	
+2	PlayerUnknown's Battlegrounds	
+3	Call of Duty: Black Ops III	
+4	Call of Duty: WWII	
+5	Red Dead Redemption 2	
+6	Minecraft: Xbox One Edition	
+7	Call of Duty: Advanced Warfare	
+8	Battlefield 1	
+9	Fallout 4	
+10	Halo 5: Guardians
+
+
